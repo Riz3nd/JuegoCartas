@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JuegoCartas</string>
+    <string name="titulo">Juego de cartas Pokemon</string>
+    <string name="sub_titulo">¿Puedes memorizar todas las cartas?</string>
+    <string name="dificultad">Selecciona la dificultad</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
